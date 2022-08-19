@@ -5,7 +5,11 @@ We start by scrapping internet posts from popular Malaysian stock market online 
 
 ![image](https://user-images.githubusercontent.com/105033135/185580858-8ef848d0-1ad0-4182-a24f-f50ea9701802.png)
 
-Next we generate the sentiment score of each posts using the Loughran-McDonald dictionary. You can find more from its official site https://sraf.nd.edu/textual_analysis/code/; you can download a Python generic parser from the site. Our chosen stock here, glove manufacturer Top Glove, used to be a darling of retail investors during the 2020-2021 period before share price moderated along with ebbing Covid-19 cases. Figure below compares the sentiment score vs. share price. The sentiment score does not seem predictive of share price. 
+Next we generate the sentiment score of each posts using the Loughran-McDonald dictionary. You can find more from its official site https://sraf.nd.edu/textual_analysis/code/; you can download a Python generic parser from the site. 
+
+![image](https://user-images.githubusercontent.com/105033135/185584117-4c4a981b-c087-43bd-8332-ee22d7627ef1.png)
+
+Our chosen stock here, glove manufacturer Top Glove, used to be a darling of retail investors during the 2020-2021 period before share price moderated along with ebbing Covid-19 cases. Figure below compares the sentiment score vs. share price. The sentiment score does not seem predictive of share price. 
 
 ![Pos sentiment](https://user-images.githubusercontent.com/105033135/185582113-d1840f9c-e3bd-4897-b924-7395c4f031cb.png)
 
