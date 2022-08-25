@@ -9,10 +9,8 @@ Next we generate the sentiment score of each posts using the Loughran-McDonald d
 
 ![image](https://user-images.githubusercontent.com/105033135/185584117-4c4a981b-c087-43bd-8332-ee22d7627ef1.png)
 
-Our chosen stock here, glove manufacturer Top Glove, used to be a darling of retail investors during the 2020-2021 period before share price moderated along with ebbing Covid-19 cases. Figure below compares the sentiment score vs. share price. The sentiment score does not seem predictive of share price. 
+Our chosen stock here, glove manufacturer Top Glove, used to be a darling of retail investors during the 2020-2021 period before share price moderated along with ebbing Covid-19 cases. Figure below compares the net sentiment score vs. share price. The sentiment score does not seem predictive of share price. 
 
-![Pos sentiment](https://user-images.githubusercontent.com/105033135/185582113-d1840f9c-e3bd-4897-b924-7395c4f031cb.png)
-
-![Neg sentiment](https://user-images.githubusercontent.com/105033135/185582199-a57d2d69-aa06-4f8d-b938-04428ca8dd8a.png)
+![image](https://user-images.githubusercontent.com/105033135/186604334-c3de38d1-2f02-49e9-aa5b-bf5c8f35b335.png)
 
 Our small study suffers from 2 pitfalls. First, the LM dictionary may not fully capture the sentiment of the colloquial English used by everyday Malaysian. Second, the study should be expanded to more stocks.
